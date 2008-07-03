@@ -16,9 +16,9 @@
 =Features to implement=
     * Create a blog post
     * List all blog posts
-          o paged list
-          o search by term
-          o filter by one or more tags
+        * paged list
+        * search by term
+        * filter by one or more tags
     * Edit a blog post
     * Add and remove tags to a blog post
     * rss/atom feeds for posts, post comments
