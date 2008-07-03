@@ -1,29 +1,29 @@
 #summary Notes on starting up this project
-
-=Tools and requirements=
-    * .NET 3.5
-    * SQL 2005?
-    * [http://www.connect.microsoft.com/content/content.aspx?ContentID=6415&SiteID=94 MS SharedView] for remote pairing
+=Tools=
+  * .NET 3.5
+  * SQL 2005?
+  * [http://www.connect.microsoft.com/content/content.aspx?ContentID=6415&SiteID=94 MS SharedView] for remote pairing
+  * Unit testing: [http://www.gallio.org Gallio] and [http://www.mbunit.com/ MBUnit 3]
+  * Mocks: [http://www.ayende.com/projects/rhino-mocks.aspx Rhino Mocks 3.5]
+  * IoC: [http://structuremap.sourceforge.net/ StructureMap 2.5]
+  * ORM: [http://www.hibernate.org/343.html NHibnerate 2.0]
+  * Build: [http://nant.sourceforge.net/ Nant]
+  * JS framework: [http://jquery.com/ JQuery]
 
 =Decisions=
-    * Should we track user stories/features in the Wiki, or in the Issue Tracker?
-    * Testing framework: xUnit.Net, mbUnit, NUnit,... ?
-    * Mock framework: Rhino Mocks, Moq,.... ?
-    * IoC container: !StructureMap, Spring.net, Castle Windsor, Unity, Ninject,... ?
-    * Build tool? Nant, !MsBuild?
-    * JS framework: JQuery, Mootools, Yui, Prototype, ....?
+  * Should we track user stories/features in the Wiki, or in the Issue Tracker?
 
 =Features to implement=
-    * Create a blog post
-    * List all blog posts
-        * paged list
-        * search by term
-        * filter by one or more tags
-    * Edit a blog post
-    * Add and remove tags to a blog post
-    * rss/atom feeds for posts, post comments
-    * Create / show post comments
-    * User/role based security for administering blog / editing posts
-    * blog statistics?
-    * themes/skins?
-    * captcha?
+  * Create a blog post
+  * List all blog posts
+    * paged list
+    * search by term
+    * filter by one or more tags
+  * Edit a blog post
+  * Add and remove tags to a blog post
+  * rss/atom feeds for posts, post comments
+  * Create / show post comments
+  * User/role based security for administering blog / editing posts
+  * blog statistics?
+  * themes/skins?
+  * captcha?
