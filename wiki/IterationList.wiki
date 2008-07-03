@@ -19,8 +19,9 @@
 =Iteration 1: Create a blog post=
 *Status: planning*
   * Greyscreen of how view should look
-  * Calling Create() on !BlogPostController should add post to !BlogPostRepository
-  * Calling Create() on !BlogPostController should redirect to Home view (with status?)
-  * Route to !BlogPostController, Create action
+  * Define acceptance criteria for "create a blog post"
+  * Behaviours:
+    * Calling Create() on !BlogController should add post to !BlogRepository
+    * Calling Create() on !BlogController should redirect to Home view (with status?)
+    * Route to !BlogController, Create action
  
-
