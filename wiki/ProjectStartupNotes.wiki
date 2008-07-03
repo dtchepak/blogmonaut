@@ -3,14 +3,14 @@
 =Tools and requirements=
     * .NET 3.5
     * SQL 2005?
-    * MS SharedView for remote pairing
+    * [http://www.connect.microsoft.com/content/content.aspx?ContentID=6415&SiteID=94 MS SharedView] for remote pairing
 
 =Decisions=
     * Should we track user stories/features in the Wiki, or in the Issue Tracker?
     * Testing framework: xUnit.Net, mbUnit, NUnit,... ?
     * Mock framework: Rhino Mocks, Moq,.... ?
-    * IoC container: StructureMap, Spring.net, Castle Windsor, Unity, Ninject,... ?
-    * Build tool? Nant, MsBuild?
+    * IoC container: !StructureMap, Spring.net, Castle Windsor, Unity, Ninject,... ?
+    * Build tool? Nant, !MsBuild?
     * JS framework: JQuery, Mootools, Yui, Prototype, ....?
 
 =Features to implement=
