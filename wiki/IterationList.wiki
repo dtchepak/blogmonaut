@@ -15,16 +15,12 @@
   * Agree on code standards
   * Flesh out feature list for next couple of iterations
   * Should get blank/minimal Home view and route working.
-
 ^1^ Check Rob Conery's MVC Storefront project and see how his solution is structured.
-
 =Iteration 1: Create a blog post=
 *Status: planning*
   * Greyscreen of how view should look
-  * Calling Create() on BlogPostController should add post to BlogPostRepository
-  * Calling Create() on BlogPostController should redirect to Home view (with status?)
-  * Route to BlogPostController, Create action
+  * Calling Create() on !BlogPostController should add post to !BlogPostRepository
+  * Calling Create() on !BlogPostController should redirect to Home view (with status?)
+  * Route to !BlogPostController, Create action
  
-
-
 
