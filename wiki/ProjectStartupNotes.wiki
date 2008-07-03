@@ -14,6 +14,7 @@
   * Should we track user stories/features in the Wiki, or in the Issue Tracker?
 
 =Features to implement=
+For planned features per iteration, see [IterationList]
   * Create a blog post
   * List all blog posts
     * paged list
