@@ -3,19 +3,19 @@
 =Iteration 0: Configuration=
 *Status: planning*
   * Setup source repository
-    * Tree structure, /src, /doc, /tools ?
-    * Commit tools to repo (binaries/)
+    * ~~Tree structure, /src, /doc, /tools ?~~
+    * ~~Commit tools to repo (binaries/)~~
     * Commit solution/proj structure to /src: 
-      * ASP.NET MVC project
-      * Test project
+      * ~~ASP.NET MVC project~~
+      * ~~Test project~~
       * domain logic project^1^
       * infrastructure project^1^
-    * Get skeleton solution building
+    * ~~Get skeleton solution building~~
     * Devs setup local CI server at home?
   * Agree on code standards
   * Flesh out feature list for next couple of iterations
-  * Should get blank/minimal Home view and route working.
-^1^ Check Rob Conery's MVC Storefront project and see how his solution is structured.
+  * ~~Should get blank/minimal Home view and route working.~~
+^1^ Check Rob Conery's MVC Storefront project has Services and Data projects ([http://www.codeplex.com/mvcsamples/SourceControl/DirectoryView.aspx?SourcePath=%24%2fmvcsamples%2fCommerce.MVC&changeSetId=9325 | example])
 =Iteration 1: Create a blog post=
 *Status: planning*
   * Greyscreen of how view should look
