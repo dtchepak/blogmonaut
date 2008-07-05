@@ -23,8 +23,8 @@
   * Look at applicable routes -- REST uris and methods. (blog/create, blog/publish?)
   * Feature: Should display a form so that the user can enter a blog post title and body. The user can click "Publish" to save the post and make it available for viewing. The user can click "Cancel" to return to the home page.
   * Behaviours:
-    * Calling Create() on !BlogController should show blog post form.
-    * Calling Publish() on !BlogController should add post to !BlogRepository
-    * Calling Publish() on !BlogController should redirect to Home view (with status?)
-    * Route to !BlogController, Create action
+    * Calling Create() on !PostController should show blog post form.
+    * Calling Publish() on !PostController should add post to !PostRepository
+    * Calling Publish() on !PostController should redirect to Home view (with status?)
+    * Route to !PostController, Create action
  
