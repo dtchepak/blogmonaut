@@ -1,13 +1,5 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
+#Links and resources. i.e blogs, webcasts etc.
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+* [http://weblogs.asp.net/scottgu/archive/2007/11/13/asp-net-mvc-framework-part-1.aspx ASP.NET MVC Framework part 1 ]
