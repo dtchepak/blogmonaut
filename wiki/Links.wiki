@@ -1,13 +1,12 @@
 #Links and resources. i.e blogs, webcasts etc.
 
 = Links to ScottGu's tutorials =
-
-* [http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx Intro]
-* [http://weblogs.asp.net/scottgu/archive/2007/11/13/asp-net-mvc-framework-part-1.aspx ASP.NET MVC Framework part 1]
+  * [http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx Intro]
+  * [http://weblogs.asp.net/scottgu/archive/2007/11/13/asp-net-mvc-framework-part-1.aspx ASP.NET MVC Framework part 1]
 
 
 
 
 == ASP.NET MVC ==
 
-* [http://www.asp.net/mvc/ ASP.NET MVC]
+  * [http://www.asp.net/mvc/ ASP.NET MVC]
