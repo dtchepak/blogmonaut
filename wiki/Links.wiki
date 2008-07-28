@@ -1,4 +1,4 @@
-#Links and resources. i.e blogs, webcasts etc.
+#summary Links and resources. i.e blogs, webcasts etc.
 
 = Links to ScottGu's tutorials =
   * [http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx Intro]
