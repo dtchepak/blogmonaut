@@ -9,7 +9,7 @@
   * IoC: [http://structuremap.sourceforge.net/ StructureMap 2.5]
   * ORM: [http://www.hibernate.org/343.html NHibnerate 2.0]
   * Build: [http://nant.sourceforge.net/ Nant]
-  * CI: CruiseControl . net [http://ccnet.thoughtworks.com]
+  * CI: [http://ccnet.thoughtworks.com CruiseControl.net]
   * JS framework: [http://jquery.com/ JQuery]
 
 =Decisions=
