@@ -2,12 +2,14 @@
 =Tools=
   * .NET 3.5
   * SQL 2005?
+  * Skype for comm.
   * [http://www.connect.microsoft.com/content/content.aspx?ContentID=6415&SiteID=94 MS SharedView] for remote pairing
   * Unit testing: [http://www.gallio.org Gallio] and [http://www.mbunit.com/ MBUnit 3]
   * Mocks: [http://www.ayende.com/projects/rhino-mocks.aspx Rhino Mocks 3.5]
   * IoC: [http://structuremap.sourceforge.net/ StructureMap 2.5]
   * ORM: [http://www.hibernate.org/343.html NHibnerate 2.0]
   * Build: [http://nant.sourceforge.net/ Nant]
+  * CI: CruiseControl.net [ccnet.thoughtworks.com]
   * JS framework: [http://jquery.com/ JQuery]
 
 =Decisions=
