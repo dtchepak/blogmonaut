@@ -96,6 +96,7 @@
     <Content Include="bin\System.Web.Abstractions.dll" />
     <Content Include="bin\System.Web.Mvc.dll" />
     <Content Include="bin\System.Web.Routing.dll" />
+    <Content Include="Content\jquery-1.2.6.js" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
