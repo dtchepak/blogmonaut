@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Blogmonaut.Web.Views.Shared.Site" %>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Blogmonaut.Web.Views.Shared.Site" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -13,8 +13,10 @@
 
         <div id="header">
             <p id="logo">
-                <a href="">My Sample MVC Application</a>
+                <a href="">Welcome to Blogmonaut</a>
             </p>
+            <i>A journey into the unknown in search of geeky nirvana</i>
+         
             <ul id="menu">
                 <li>
                     <%= Html.ActionLink("Home", "Index", "Home")%>
@@ -33,7 +35,7 @@
             </div>
             <div id="footer">
                 <p>
-                    My Sample MVC Application &copy; Copyright 2008
+                    Blogmonaut 2008
                 </p>
             </div>
         </div>
