@@ -8,7 +8,8 @@ namespace Blogmonaut.Web.Controllers {
     public class HomeController : Controller {
         public ActionResult Index() {
             ViewData["Title"] = "Home Page";
-            ViewData["Message"] = "Welcome to ASP.NET MVC!";
+            ViewData["PageHeader"] = "What's with the name?";
+            ViewData["NameReason"] = "Why Blogmonaut";
 
             return View();
         }
